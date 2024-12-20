@@ -15,11 +15,13 @@
         move-left-screen {
             bindings = <&kp LA(LC(LEFT))>;
             key-positions = <42>;
+            layers = <2>;
         };
 
         move-right-screen {
             bindings = <&kp LA(LC(RIGHT))>;
             key-positions = <43>;
+            layers = <2>;
         };
 
         copy-fn {
