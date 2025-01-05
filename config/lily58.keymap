@@ -17,13 +17,13 @@
 
         move-left-screen {
             bindings = <&kp LA(LC(LEFT))>;
-            key-positions = <42>;
+            key-positions = <53>;
             layers = <3>;
         };
 
         move-right-screen {
             bindings = <&kp LA(LC(RIGHT))>;
-            key-positions = <43>;
+            key-positions = <54>;
             layers = <3>;
         };
 
