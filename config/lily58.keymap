@@ -78,11 +78,10 @@
         copy-d+f {
             bindings = <&kp LC(INSERT)>;
             key-positions = <26 27>;
-            layers = <0>;
         };
 
         past-d+g {
-            bindings = <&none>;
+            bindings = <&kp LS(INSERT)>;
             key-positions = <27 29>;
         };
     };
